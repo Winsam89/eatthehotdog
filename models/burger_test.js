@@ -1,0 +1,1 @@
+var hotdog = require('./hotdog.js');
